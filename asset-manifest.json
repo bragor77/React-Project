@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/React-Project/static/css/main.e7e843e3.css",
+    "main.css": "/React-Project/static/css/main.a652438f.css",
     "main.js": "/React-Project/static/js/main.47e007b4.js",
     "static/js/787.721e15b4.chunk.js": "/React-Project/static/js/787.721e15b4.chunk.js",
     "static/media/Bryan-digital-signature-photo.jpg": "/React-Project/static/media/Bryan-digital-signature-photo.82d8dad16489fb2d80b2.jpg",
     "index.html": "/React-Project/index.html",
-    "main.e7e843e3.css.map": "/React-Project/static/css/main.e7e843e3.css.map",
+    "main.a652438f.css.map": "/React-Project/static/css/main.a652438f.css.map",
     "main.47e007b4.js.map": "/React-Project/static/js/main.47e007b4.js.map",
     "787.721e15b4.chunk.js.map": "/React-Project/static/js/787.721e15b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7e843e3.css",
+    "static/css/main.a652438f.css",
     "static/js/main.47e007b4.js"
   ]
 }
