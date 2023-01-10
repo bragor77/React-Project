@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/React-Project/static/css/main.b5660546.css",
-    "main.js": "/React-Project/static/js/main.d1c578cc.js",
+    "main.css": "/React-Project/static/css/main.6f3bb801.css",
+    "main.js": "/React-Project/static/js/main.1a3d1515.js",
     "static/js/787.721e15b4.chunk.js": "/React-Project/static/js/787.721e15b4.chunk.js",
     "static/media/Bryan-digital-signature-photo.jpg": "/React-Project/static/media/Bryan-digital-signature-photo.82d8dad16489fb2d80b2.jpg",
     "index.html": "/React-Project/index.html",
-    "main.b5660546.css.map": "/React-Project/static/css/main.b5660546.css.map",
-    "main.d1c578cc.js.map": "/React-Project/static/js/main.d1c578cc.js.map",
+    "main.6f3bb801.css.map": "/React-Project/static/css/main.6f3bb801.css.map",
+    "main.1a3d1515.js.map": "/React-Project/static/js/main.1a3d1515.js.map",
     "787.721e15b4.chunk.js.map": "/React-Project/static/js/787.721e15b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5660546.css",
-    "static/js/main.d1c578cc.js"
+    "static/css/main.6f3bb801.css",
+    "static/js/main.1a3d1515.js"
   ]
 }
